@@ -1,4 +1,4 @@
-%Numar de ordine: 50
+%Numar de ordine: 10
 %Semnal triunghiular
 %Perioada P = 40 s
 %Durata semnalelor D = 10
